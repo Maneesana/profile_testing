@@ -1,7 +1,7 @@
 # My 3D Project
 
 ## 3D Model Viewer
-![STL Model](./models/test_3d.stl)
+![STL Model](./models/bunny_3d.stl)
 
 *Click and drag to rotate, scroll to zoom*
 
