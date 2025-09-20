@@ -159,5 +159,5 @@ I'm always interested in collaborating on innovative projects and discussing the
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Maneesana&color=blue&style=flat-square&label=Profile+Views" />
 </div>
